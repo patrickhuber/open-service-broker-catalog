@@ -1,2 +1,2 @@
-# open-service-broker-catalog
+# open service broker catalog
 a UI for managing multiple open service brokers
